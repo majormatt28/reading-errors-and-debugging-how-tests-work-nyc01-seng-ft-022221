@@ -1,2 +1,4 @@
 # Add your variables here
-first_number = number
+def first_number(number)
+
+end
